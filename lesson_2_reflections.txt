@@ -10,3 +10,11 @@ to mix and match files to commit together.
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can compare the staging area and current commit to verify what your change is.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you have multiple branches for the same subject you could label the branches. It would help you keep track of changes.
+
+How do the diagrams help you visualize the branch structure?
+
+They show you where a new branch split off of the main master branch.
