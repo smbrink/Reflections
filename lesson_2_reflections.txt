@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is where you can add multiple files before you commit then together. It allows you
 to mix and match files to commit together.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can compare the staging area and current commit to verify what your change is.
