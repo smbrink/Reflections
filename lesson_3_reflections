@@ -5,3 +5,7 @@ Probably when you are concerned about memory on your computer or when you want i
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Just in case you have some commits that you would want to place in another branch in your local repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are used to basically clone repositories from GitHub, clones are used to make copies of other repositories, and branches are used to keep track of changes you are making on your local repository. Forks will be used in GitHub, Clones and branches will be used on your local computer.
