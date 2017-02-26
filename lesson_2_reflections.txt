@@ -18,3 +18,8 @@ If you have multiple branches for the same subject you could label the branches.
 How do the diagrams help you visualize the branch structure?
 
 They show you where a new branch split off of the main master branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It combines the branches into 1 with all the previous commits included. Because it is combining the 
+2 branches with all the previous commits together
