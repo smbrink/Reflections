@@ -23,3 +23,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 It combines the branches into 1 with all the previous commits included. Because it is combining the 
 2 branches with all the previous commits together
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The good part is if there are no conflicts Git will merge the commits together but it there are conflicts 
+you will need to manually fix the conflicts before the merge will complete. It sounds like alot of work
+to always do your merging manually.
