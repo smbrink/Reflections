@@ -17,3 +17,7 @@ It allows you to keep track of the status of your GitHub branch and check for co
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You could email code back and forth and copy and paste. Seems like GitHub would be alot faster and easier than email though.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are working on a new feature and you need to share it with someone, basically when you don't want to mess up your master branch. It allows you to keep your working master branch clean until you are ready to merge,
