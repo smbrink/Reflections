@@ -13,3 +13,7 @@ Forks are used to basically clone repositories from GitHub, clones are used to m
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It allows you to keep track of the status of your GitHub branch and check for conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could email code back and forth and copy and paste. Seems like GitHub would be alot faster and easier than email though.
